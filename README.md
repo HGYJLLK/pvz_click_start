@@ -28,7 +28,7 @@ pip install -r requirements.txt
 1. 确保游戏窗口标题为"植物大战僵尸杂交版"
 2. 运行脚本：
 ```bash
-python pvz_click_start.py
+python pvz.py
 ```
 
 ## 注意事项
@@ -39,8 +39,10 @@ python pvz_click_start.py
 ## 项目结构
 ```
 pvz_click_start/
-├── pvz_click_start.py  # 主程序
+├── pvz.py  # 主程序
 ├── chongxuan.png      # 重选按钮模板
 ├── yaogun.png         # 摇滚按钮模板
 └── requirements.txt   # 依赖文件
 ```
+
+ps：刷金瓜成就刷一辈子
